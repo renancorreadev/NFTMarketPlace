@@ -1,8 +1,8 @@
-# NFT based Photo MarketPlace
+# NFT  MarketPlace
 
 ***
 
-## 【Introduction of NFT based Photo MarketPlace】
+## 【Introduction of NFT MarketPlace】
 - NFT based Photo MarketPlace is the peer-to-peer Marketplace for buy and sell of photos which was uploaded by users.
 - It assume that uploaded photos in this marketplace are used as photos of news article.
 - Even if user has smartphone which include function of camera, anyone can become sellers by uploading photos in this MarketPlace.
